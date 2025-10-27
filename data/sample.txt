@@ -1,0 +1,5 @@
+SampleName	RunID	Treatment_Status	Responder_Status
+P_Res_Pre	SRR7895123	Pre	Responder
+P_Res_Post	SRR7895131	Post	Responder
+P_NonRes_Pre	SRR7895141	Pre	NonResponder
+P_NonRes_Post	SRR7895149	Post	NonResponder
